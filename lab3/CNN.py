@@ -177,4 +177,8 @@ print("Prediction plot saved as 'predictions.png'")
 # STEP 9: Save the Model (optional)
 # ─────────────────────────────────────────
 model.save('cnn_mnist_model.h5')
+<<<<<<< HEAD
 print("\nModel saved as 'cnn_mnist_model.h5'")
+=======
+print("\nModel saved as 'cnn_mnist_model.h5'")
+>>>>>>> 48869e0ce85f73ece082f766eb8fc0ad8ccf2940
